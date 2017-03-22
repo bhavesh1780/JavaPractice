@@ -1,18 +1,18 @@
- package HomeWork2;
+package HomeWork2.Pattens;
 
 import java.util.Scanner;
 
 /**
- * Created by Dell on 08/03/2017.
+ * Created by Dell on 04/03/2017.
  */
-public class $5RhombusCharacterStructure {
+public class $4RhombusNumberStructure {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("\nInput the number:  ");
         int number = scanner.nextInt();
         int count = 1;
         int spaces = 1;
-        char alphabets  = 'A';
+        int start = 0;
 
         for (int i = 1; i < (number * 2); i++)
         {
@@ -22,20 +22,22 @@ public class $5RhombusCharacterStructure {
             }
             if (i < number)
             {
+                start = i;
                 spaces++;
             } else
             {
+                start = number * 2 - i;
                 spaces--;
             }
             for (int j = 0; j < count; j++)
             {
-                System.out.print(alphabets);
+                System.out.print(start);
                 if (j < count / 2)
                 {
-                    alphabets++;
+                    start--;
                 } else
                 {
-                    alphabets--;
+                    start++;
                 }
             }
             if (i < number)
@@ -44,7 +46,7 @@ public class $5RhombusCharacterStructure {
             } else {
                 count = count - 2;
             }
-            alphabets = 'A';
+
             System.out.println();
         }
     }

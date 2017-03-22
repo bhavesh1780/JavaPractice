@@ -1,9 +1,9 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 /**
  * Created by Dell on 04/03/2017.
  */
-public class $8PrintGridArray {
+public class $3PrintGridArray {
     public static void main(String[] args) {
        char[][] x = new char[10][10];
 

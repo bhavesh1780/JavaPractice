@@ -1,9 +1,9 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 /**
  * Created by Dell on 06/03/2017.
  */
-public class $19RemoveDuplicateElementFromArray {
+public class $14RemoveDuplicateElementFromArray {
     public static void main(String[] args) {
         int[]number = {10,15,10,20,25,40,45,50,55,40};
         int size = number.length;

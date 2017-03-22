@@ -1,11 +1,11 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 import java.util.Scanner;
 
 /**
- * Created by Dell on 05/03/2017.
+ * . Write a Java program to insert an element (specific position) into an array.
  */
-public class $13InsertElementInArray {
+public class $8InsertElementInArray {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("\nEnter Number of Element you Want : ");

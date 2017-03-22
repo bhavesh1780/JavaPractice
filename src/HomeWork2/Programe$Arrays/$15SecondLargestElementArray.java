@@ -1,9 +1,9 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 /**
  * Created by Dell on 06/03/2017.
  */
-public class $20SecondLargestElementArray {
+public class $15SecondLargestElementArray {
     public static void main(String[] args) {
         int number[] = { 30,10,25,100,75,66,150,90,130 };
         int large = number[0];

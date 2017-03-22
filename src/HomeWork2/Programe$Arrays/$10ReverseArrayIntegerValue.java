@@ -1,9 +1,9 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 /**
  * Created by Dell on 05/03/2017.
  */
-public class $15ReverseArrayIntegerValue {
+public class $10ReverseArrayIntegerValue {
     public static void main(String[] args) {
         int number[] = {35,49,55,75,100};
         System.out.println("\nArray before Reverse : ");

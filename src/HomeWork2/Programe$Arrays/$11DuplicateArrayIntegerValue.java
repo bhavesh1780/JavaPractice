@@ -1,11 +1,11 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 import java.util.Arrays;
 
 /**
  * Created by Dell on 05/03/2017.
  */
-public class $16DuplicateArrayIntegerValue {
+public class $11DuplicateArrayIntegerValue {
     public static void main(String[] args) {
         int[]numbers = {5,15,30,10,5,15,25,35,50,10,100,75};
         Arrays.sort(numbers);

@@ -1,9 +1,9 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 /**
  * Created by Dell on 06/03/2017.
  */
-public class $17DuplicateArrayStringValue
+public class $12DuplicateArrayStringValue
 {
     public static void main(String[] args)
     {

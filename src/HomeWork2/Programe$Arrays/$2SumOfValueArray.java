@@ -1,9 +1,9 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 /**
  * Created by Dell on 04/03/2017.
  */
-public class $7SumOfValueArray
+public class $2SumOfValueArray
 {
     public static void main(String[] args)
     {

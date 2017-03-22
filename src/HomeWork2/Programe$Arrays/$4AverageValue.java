@@ -1,9 +1,9 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 /**
  * Created by Dell on 05/03/2017.
  */
-public class $9AverageValue {
+public class $4AverageValue {
     public static void main(String[] args) {
         int[]number = new int[]{40,60,70,32,50};
         int sum = 0;

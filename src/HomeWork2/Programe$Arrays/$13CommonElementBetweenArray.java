@@ -1,9 +1,9 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 /**
  * Created by Dell on 06/03/2017.
  */
-public class $18CommonElementBetweenArray {
+public class $13CommonElementBetweenArray {
     public static void main(String[] args) {
         int[]number = {10,50,30,45,75,65,100,120};
         int[]number1 = {75,80,10,45,60,35,90,100};

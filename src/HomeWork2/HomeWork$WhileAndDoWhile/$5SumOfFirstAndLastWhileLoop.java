@@ -14,7 +14,7 @@ public class $5SumOfFirstAndLastWhileLoop {
 
         while (x>0)
         {
-            a=x%10;
+            a=x%10;  // separating the reminder from the value
             b++;
 
             if(b==1||b==5)

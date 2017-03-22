@@ -1,11 +1,11 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 import java.util.Scanner;
 
 /**
  * Created by Dell on 05/03/2017.
  */
-public class $12RemoveArray {
+public class $7RemoveArray {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number, x, y = 1, z = 0;

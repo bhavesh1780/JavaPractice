@@ -1,11 +1,11 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 import java.util.Scanner;
 
 /**
  * Created by Dell on 07/03/2017.
  */
-public class $22MultidimensionalArrayAndTranspose {
+public class $17MultidimensionalArrayAndTranspose {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int x,y,z[][]= new int[10][10];
@@ -18,7 +18,7 @@ public class $22MultidimensionalArrayAndTranspose {
                 z[x][y] = scanner.nextInt();
             }
         }
-        System.out.println("Multidimensional Array:-");
+        System.out.println("\nMultidimensional Array:-");
         for(x=0;x < 3;x++)
         {
             for(y=0;y < 3;y++)

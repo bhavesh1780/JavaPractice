@@ -1,11 +1,11 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 import java.util.Scanner;
 
 /**
  * Created by Dell on 05/03/2017.
  */
-public class $11ArrayElementInIndex {
+public class $6ArrayElementInIndex {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("\nEnter any Number : ");

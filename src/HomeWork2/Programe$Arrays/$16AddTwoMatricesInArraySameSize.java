@@ -1,32 +1,32 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 import java.util.Scanner;
 
 /**
  * Created by Dell on 06/03/2017.
  */
-public class $21AddTwoMatricesInArraySameSize {
+public class $16AddTwoMatricesInArraySameSize {
     public static void main(String args[])
     {
         int x, y, z, d;
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("\nInput number of rows : ");
+        System.out.print("\nInput number of rows : ");
         x = scanner.nextInt();
-        System.out.println("Input number of columns : ");
+        System.out.print("Input number of columns : ");
         y  = scanner.nextInt();
 
         int number[][] = new int[x][y];
         int number1[][] = new int[x][y];
         int sum[][] = new int[x][y];
 
-        System.out.println("Input first element : ");
+        System.out.print("\nInput first element : ");
 
         for (  z = 0 ; z < x ; z++ )
             for ( d = 0 ; d < y ; d++ )
                 number[z][d] = scanner.nextInt();
 
-        System.out.println("Input second element : ");
+        System.out.print("Input second element : ");
 
         for ( z = 0 ; z < x ; z++ )
             for ( d = 0 ; d < y ; d++ )

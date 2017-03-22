@@ -1,4 +1,4 @@
-package HomeWork2;
+package HomeWork2.Pattens;
 
 import java.util.Scanner;
 

@@ -1,11 +1,11 @@
-package HomeWork2;
+package HomeWork2.Programe$Arrays;
 
 import java.util.Arrays;
 
 /**
  * Created by Dell on 05/03/2017.
  */
-public class $6SortNumaricAndString {
+public class $1SortNumaricAndString {
     public static void main(String[] args) {
         int[] number = {45,35,10,50};
 
